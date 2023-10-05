@@ -1,0 +1,111 @@
+body {
+  background-color: #eaebf6;
+}
+
+/*OPEN NEWS CARD*/
+.news-card {
+  margin-top: 2rem;
+  background-color: #ffffff;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.time-posted {
+  color: #999999;
+  font-size: small;
+}
+.card-news-text {
+  margin-top: 1rem;
+}
+
+.card-text {
+  margin-left: 20rem;
+}
+
+.card-title {
+  font-size: 1.563rem;
+}
+
+.news-title {
+  margin-left: 2rem;
+  margin-top: 1.5rem;
+}
+
+.custom-show {
+  margin-left: 2rem;
+  margin-top: 1rem;
+}
+
+.card-body {
+  background-color: #ffffff;
+  padding: 1.5rem;
+}
+
+.card-text {
+  margin-top: 1rem;
+}
+
+.card.card-body {
+  border: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.read-more {
+  cursor: pointer;
+  color: blue;
+}
+
+.modal-header {
+  border: none;
+}
+
+/* Airdrops navbar*/
+.navbar {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+#recipeCarousel {
+  overflow: hidden;
+}
+.carousel-inner {
+  margin-left: 15rem;
+  margin-right: 10rem;
+}
+
+.carousel-item a {
+  text-decoration: none;
+}
+
+.img-fluid {
+  cursor: pointer;
+}
+
+/* Airdrop cards */
+.custom-card {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.airdrop {
+  margin: 10px 0 10px 0;
+  border: solid 1px #999999;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btn-primary {
+  color: #23acde;
+  border-color: #23acde;
+  background: #e0e3f5;
+  padding: 1rem;
+}
+
+.comment {
+  color: #444444;
+  font-size: 0.75rem;
+}
